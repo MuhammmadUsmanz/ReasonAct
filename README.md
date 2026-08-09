@@ -34,5 +34,3 @@ A plain LLM can't do the second half of that (it doesn't know current data). Rea
 | Web search | DuckDuckGo Search (`ddgs`) |
 | UI | Streamlit |
 | Math evaluation | Python `ast` module (safe expression parsing, not `eval`) |
-
-## How It Works
